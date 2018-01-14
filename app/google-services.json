@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676621081690",
+    "project_id": "cfd2018-191920"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676621081690:android:f8c9154feba491a9",
+        "android_client_info": {
+          "package_name": "com.example.abhishek.cfdtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676621081690-bkgmcne56vsel4ran66gs3m5ospq3o0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhishek.cfdtest",
+            "certificate_hash": "259a221071d9a7fa2ee5ca8271eff32df7f314ac"
+          }
+        },
+        {
+          "client_id": "676621081690-3uoa12cp0ifnhdu6gft1bnbo55vmoa4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkIK6DGvN9kmpY4R5GeapA0uCyjoNzb0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
